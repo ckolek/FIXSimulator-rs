@@ -1,0 +1,11 @@
+[root]
+name = "fix_simulator"
+version = "0.1.0"
+dependencies = [
+ "fix 0.1.0",
+]
+
+[[package]]
+name = "fix"
+version = "0.1.0"
+
